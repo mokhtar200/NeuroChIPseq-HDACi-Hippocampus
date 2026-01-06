@@ -1,7 +1,7 @@
 # NeuroChIPseq HDACi Hippocampus
 
 This project analyzes the impact of **HDAC inhibition (TSA)** on **hippocampal histone acetylation** in mice using **ChIP-Seq**.  
-We focus on the histone marks: **AcH2B, AcH3K9,14, AcH4K12**, comparing **TSA vs Vehicle** treatment.
+We focus on the histone marks: **AcH3K9,14, AcH4K12**, comparing **TSA vs Vehicle** treatment.
 
 ## Dataset
 - BioProject: [PRJNA186421](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA186421)
